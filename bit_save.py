@@ -1,5 +1,8 @@
 import pymysql
+import sys
 
+
+print(sys.argv)
 
 db = pymysql.connect(host='localhost',
                      port=3306,

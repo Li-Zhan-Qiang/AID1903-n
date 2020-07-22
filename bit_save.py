@@ -1,6 +1,8 @@
 import pymysql
 import sys
+import os
 
+os.name
 
 print(sys.argv)
 

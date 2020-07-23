@@ -2,9 +2,13 @@ import pymysql
 import sys
 import os
 
+<<<<<<< HEAD
 import string
 
 os.name
+=======
+import threading
+>>>>>>> Jame_dev
 
 print(sys.argv)
 

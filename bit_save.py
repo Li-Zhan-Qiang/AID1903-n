@@ -1,11 +1,9 @@
 import pymysql
 import sys
-import os
 
 
 import string
 
-os.name
 
 import threading
 
